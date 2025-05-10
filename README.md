@@ -1,7 +1,8 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif))]
+![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 <h1 align="center">Hi 👋, I'm Govind Raj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2thNHQyZ3YzZjUwNHJsZXh5c3QzNWRsZjdwM3JiMjM1Mjl3Zjl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif”>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2thNHQyZ3YzZjUwNHJsZXh5c3QzNWRsZjdwM3JiMjM1Mjl3Zjl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindds1&label=Profile%20views&color=0e75b6&style=flat" alt="govindds1" /> </p>
 
