@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend Development, Ui/Ux Designing**
 
-- 📫 How to reach me **govindrajgaya786@gmail.com**
+- 📫 Reach me at **govindrajgaya786@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
