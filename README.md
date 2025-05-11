@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
-<h1 align="center">Hi 👋, I'm Govind Raj</h1>
+<h1 align="center">Hi 👋, I'm Govind </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2thNHQyZ3YzZjUwNHJsZXh5c3QzNWRsZjdwM3JiMjM1Mjl3Zjl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
