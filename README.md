@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio-v2-pink-chi.vercel.app](portfolio-v2-pink-chi.vercel.app)
 
-- 💬 Ask me about **Frontend Development, Ui/Ux Designing**
+- 💬 Ask me about **Frontend Development, **Data Structures, Ui/Ux Designing**
 
 - 📫 Reach me at **govindrajgaya786@gmail.com**
 
